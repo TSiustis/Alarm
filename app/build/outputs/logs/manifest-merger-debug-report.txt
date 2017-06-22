@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml:5:22-65
+application
+ADDED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml:7:5-27:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\John\.android\build-cache\1293472fb10771fd66a9cd8c6b61a691b6525ac8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\John\.android\build-cache\a73d29089d70f85d6abbd320eebc19f9e6f39378\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\John\.android\build-cache\de7c8e6739247d28cb84797c6c73eb999a62c081\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\John\.android\build-cache\2e745a32420071bacc6b109fa46c74434d12dc59\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\John\.android\build-cache\3b389c1133dcaca2be7919890da13bf878407f5e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\John\.android\build-cache\0abcb22ced67843402f977918bdb176062f570c6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\John\.android\build-cache\7011cc95d452ff0c7750334f89e3379cd8582bab\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\John\.android\build-cache\42850704bb5b9d40efd5a1e0f8adc2b3eb161f40\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\John\.android\build-cache\f0bf4c2768e450377838c9dc076e25b985bdcd56\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\John\.android\build-cache\93c77089756a6ca5e270ce931e2e60b423dcfbfb\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml:10:9-41
+	android:allowBackup
+		ADDED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.teodor.alarm.FullscreenActivity
+ADDED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml:12:9-22:20
+	android:label
+		ADDED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml:15:13-45
+	android:configChanges
+		ADDED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml:14:13-74
+	android:theme
+		ADDED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml:16:13-51
+	android:name
+		ADDED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml:13:13-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.teodor.alarm.SettingsActivity
+ADDED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml:23:9-26:20
+	android:label
+		ADDED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml:25:13-60
+	android:name
+		ADDED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml:24:13-45
+uses-sdk
+INJECTED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\John\.android\build-cache\1293472fb10771fd66a9cd8c6b61a691b6525ac8\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\John\.android\build-cache\a73d29089d70f85d6abbd320eebc19f9e6f39378\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\John\.android\build-cache\de7c8e6739247d28cb84797c6c73eb999a62c081\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\John\.android\build-cache\2e745a32420071bacc6b109fa46c74434d12dc59\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\John\.android\build-cache\3b389c1133dcaca2be7919890da13bf878407f5e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\John\.android\build-cache\0abcb22ced67843402f977918bdb176062f570c6\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\John\.android\build-cache\7011cc95d452ff0c7750334f89e3379cd8582bab\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\John\.android\build-cache\42850704bb5b9d40efd5a1e0f8adc2b3eb161f40\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\John\.android\build-cache\f0bf4c2768e450377838c9dc076e25b985bdcd56\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\John\.android\build-cache\93c77089756a6ca5e270ce931e2e60b423dcfbfb\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\John\.android\build-cache\1293472fb10771fd66a9cd8c6b61a691b6525ac8\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\John\AndroidStudioProjects\Alarm\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\John\.android\build-cache\1293472fb10771fd66a9cd8c6b61a691b6525ac8\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\John\.android\build-cache\a73d29089d70f85d6abbd320eebc19f9e6f39378\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\John\.android\build-cache\de7c8e6739247d28cb84797c6c73eb999a62c081\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\John\.android\build-cache\2e745a32420071bacc6b109fa46c74434d12dc59\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\John\.android\build-cache\3b389c1133dcaca2be7919890da13bf878407f5e\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\John\.android\build-cache\0abcb22ced67843402f977918bdb176062f570c6\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\John\.android\build-cache\7011cc95d452ff0c7750334f89e3379cd8582bab\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\John\.android\build-cache\42850704bb5b9d40efd5a1e0f8adc2b3eb161f40\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\John\.android\build-cache\f0bf4c2768e450377838c9dc076e25b985bdcd56\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\John\.android\build-cache\1293472fb10771fd66a9cd8c6b61a691b6525ac8\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\John\.android\build-cache\1293472fb10771fd66a9cd8c6b61a691b6525ac8\output\AndroidManifest.xml:26:9-47
